@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+.env
+package-lock.json
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+logs/
